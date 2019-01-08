@@ -18,7 +18,7 @@ Trace route windows ```route print -4```
 Trace route CentOS ```traceroute``` ou ```ip route```
 
 ```curl``` ==> google.com :charge le code html de la page google.com  
-```curl -o http://lakanal.net/ressources/poesies/bonjourA4_lak.pdf``` telecharge ce magnifique poème nommé [bonjour](http://lakanal.net/ressources/poesies/bonjourA4_lak.pdf)
+```curl -o http://lakanal.net/ressources/poesies/bonjourA4_lak.pdf``` telecharge le code html de ce magnifique poème nommé [bonjour](http://lakanal.net/ressources/poesies/bonjourA4_lak.pdf)
 
 ```dig``` ==> google.com
 ```dig``` ==> ynov.com
