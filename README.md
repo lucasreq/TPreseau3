@@ -31,7 +31,7 @@ curl: gab
 
 ## III. Routage statique
 
-### 1. Preparation des h�tes (vos PCs)
+### 1. Preparation des hôtes (vos PCs)
 
 
 ### 2. Configuration du routage
