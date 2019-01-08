@@ -17,7 +17,7 @@ Lucas Requena Gabriel Fougerol
 Trace route windows ```route print -4```
 Trace route CentOS ```traceroute``` ou ```ip route```
 
-cul: gab
+curl: gab
 
 ```dig``` ==> google.com
 ```dig``` ==> ynov.com
