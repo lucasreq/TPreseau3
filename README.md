@@ -81,6 +81,14 @@ State      Recv-Q Send-Q Local Address:Port               Peer Address:Port
 LISTEN     0      128          *:22                     *:*                   users:(("sshd",pid=3890,fd=3))
 LISTEN     0      100    127.0.0.1:25                       *:*                   users:(("master",pid=3659,fd=13))
 ```
+
+ouverture du port 2222
+```shell
+firewall-cmd --add-port=2222/tcp --permanent
+``` 
+
+connection sur le serveur ssh
+
 ## III. Routage statique
 
 ### 1. Preparation des hôtes (vos PCs)
