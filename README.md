@@ -78,7 +78,7 @@ verification
 [root@localhost ssh]# systemctl restart sshd
 [root@localhost ssh]# ss -4 -ntpl
 State      Recv-Q Send-Q Local Address:Port               Peer Address:Port     
-LISTEN     0      128          *:22                     *:*                   users:(("sshd",pid=3890,fd=3))
+LISTEN     0      128          *:2222                     *:*                   users:(("sshd",pid=3890,fd=3))
 LISTEN     0      100    127.0.0.1:25                       *:*                   users:(("master",pid=3659,fd=13))
 ```
 
