@@ -89,8 +89,20 @@ firewall-cmd --add-port=2222/tcp --permanent
 
 connection sur le serveur ssh
 ```shell
-
+ssh root@168.162.127.10 -p 2222
+root@168.162.127.10's password:
+Last login: Mon Jan 21 21:33:06 2019
 ```
+
+#### Netcat
+
+```shell
+PS C:\Users\lucas\Documents\Netcat\netcat-1.11> ./nc.exe
+Cmd line: no port[s] to connect to
+PS C:\Users\lucas\Documents\Netcat\netcat-1.11> ./nc.exe
+Cmd line: no port[s] to connect to
+```
+Impossible d'utiliser netcat... génial
 
 ## III. Routage statique
 
