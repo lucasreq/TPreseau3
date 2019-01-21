@@ -89,10 +89,7 @@ firewall-cmd --add-port=2222/tcp --permanent
 
 connection sur le serveur ssh
 ```shell
-PS C:\Users\lucas\Documents\Netcat\netcat-1.11> ./nc.exe
-Cmd line: ssh root@192.168.127.10 -p 2222
-ssh: forward host lookup failed: h_errno 11001: HOST_NOT_FOUND
-PS C:\Users\lucas\Documents\Netcat\netcat-1.11>
+
 ```
 
 ## III. Routage statique
